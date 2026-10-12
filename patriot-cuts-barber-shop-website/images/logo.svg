@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 80" role="img" aria-labelledby="title desc">
+  <title id="title">Patriot Cuts Barber Shop</title>
+  <desc id="desc">Custom website concept mark inspired by a red, white and blue barber pole; not verified as the official business logo.</desc>
+  <rect width="260" height="80" rx="12" fill="#090d14"/>
+  <g transform="translate(12 10)">
+    <rect x="0" y="0" width="44" height="60" rx="8" fill="#174ea6"/>
+    <path d="M5 10h34M5 24h34M5 38h34M5 52h34" stroke="#fff" stroke-width="5"/>
+    <path d="M-2 7L46 53M-2 37L24 63M20-3L46 23" stroke="#b91c1c" stroke-width="7" opacity=".95"/>
+  </g>
+  <text x="68" y="34" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" fill="#fff" letter-spacing="1">PATRIOT</text>
+  <text x="68" y="58" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" fill="#dfe8f8" letter-spacing="2">CUTS</text>
+  <rect x="222" y="12" width="4" height="56" fill="#b91c1c"/>
+  <rect x="230" y="12" width="4" height="56" fill="#fff"/>
+  <rect x="238" y="12" width="4" height="56" fill="#174ea6"/>
+</svg>
